@@ -71,7 +71,7 @@
 }
 
 /* ******************************************/
-/* information box with icons */
+/* information box and icons */
 /* ******************************************/
 
 .information {
@@ -93,7 +93,7 @@
 
 /***********/
 /* icons   */
-
+/***********/
 .max_guest {
   background-image: url(../images/icon_group.png);
 }

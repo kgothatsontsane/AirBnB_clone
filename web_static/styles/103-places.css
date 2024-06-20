@@ -88,7 +88,7 @@ article:focus {
   transition: 0.2s ease-in-out;
 }
 /* ******************************************/
-/* information box with icons */
+/* information box and icons */
 /* ******************************************/
 
 .information {
@@ -110,7 +110,7 @@ article:focus {
 
 /***********/
 /* icons   */
-
+/***********/
 .max_guest {
   background-image: url(../images/icon_group.png);
 }

@@ -59,7 +59,7 @@ article {
 }
 
 /* ******************************************/
-/* information box with icons */
+/* information box and icons */
 /* ******************************************/
 
 .information {
@@ -82,7 +82,7 @@ article {
 }
 /***********/
 /* icons   */
-
+/***********/
 .max_guest {
   background-image: url(../images/icon_group.png);
 }
